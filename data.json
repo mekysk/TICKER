@@ -6,8 +6,8 @@
       "name": "Stocks",
       "symbols": [
         {
-          "name": "NASDAQ:AMZN",
-          "displayName": "AMZN - Amazon"
+          "name": "BINANCE:BTCUSD",
+          "displayName": "BINANCE:BTCUSD"
         },
         {
           "name": "TSX:BB",
